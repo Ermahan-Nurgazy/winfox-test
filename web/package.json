@@ -1,0 +1,23 @@
+{
+  "name": "winfox-test",
+  "version": "1.0.0",
+  "description": "Test task for Winfox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ermahan-Nurgazy/winfox-test.git"
+  },
+  "author": "malgazhdar.ermahan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ermahan-Nurgazy/winfox-test/issues"
+  },
+  "homepage": "https://github.com/Ermahan-Nurgazy/winfox-test#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "vue": "^3.2.37"
+  }
+}
